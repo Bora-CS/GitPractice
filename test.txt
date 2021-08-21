@@ -1,1 +1,3 @@
 Hello this is my new message
+
+This is a new message from John
